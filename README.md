@@ -45,9 +45,9 @@
 
 ### 📫 Let’s Connect!
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin)](https://www.linkedin.com/in/your-link)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin)](www.linkedin.com/in/sreyoshi-pal)
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github)](https://github.com/Sreyoshi244)
-[![Portfolio](https://img.shields.io/badge/-Portfolio-ff5722?style=flat&logo=vercel&logoColor=white)](https://yourportfolio.vercel.app)
+
 
 ---
 
