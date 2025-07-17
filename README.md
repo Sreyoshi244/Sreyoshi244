@@ -1,11 +1,11 @@
+
+
 <p align="center">
   <img src="https://raw.githubusercontent.com/Sreyoshi244/Sreyoshi244/main/sreyoshi-banner.png" alt="Sreyoshi Banner" />
 </p>
 
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=F97316&center=true&vCenter=true&width=600&lines=Hey+there%2C+I'm+Sreyoshi!;ECE+%7C+Web+Dev+%7C+UI%2FUX+Explorer;Code.+Design.+Grow.+Repeat+%E2%9C%A8" alt="Typing SVG" />
-</p>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=00FFFF&center=true&vCenter=true&width=600&lines=Hey+there%2C+I'm+Sreyoshi!;ECE+%7C+Web+Dev+%7C+UI%2FUX+Explorer;Code.+Design.+Grow.+Repeat+%E2%9C%A8" alt="Typing SVG" />
 
 ---
 
@@ -41,11 +41,13 @@
 
 ---
 
+
 ### 📫 Let’s Connect!
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin)](www.linkedin.com/in/sreyoshi-pal)
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github)](https://github.com/Sreyoshi244)
 [![Gmail](https://img.shields.io/badge/-Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:sreyoshipal85@gmail.com)
+
 
 
 
