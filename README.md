@@ -1,9 +1,8 @@
-
-<h1 align="center">Hi there, I'm Sreyoshi 👋</h1>
-
 <p align="center">
-  🌌 ECE Student @ KGEC • 💻 Web Developer in the making 
+  <img src="https://raw.githubusercontent.com/Sreyoshi244/Sreyoshi244/main/sreyoshi-banner.png" alt="Sreyoshi Banner" />
 </p>
+
+
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=F97316&center=true&vCenter=true&width=600&lines=Hey+there%2C+I'm+Sreyoshi!;ECE+%7C+Web+Dev+%7C+UI%2FUX+Explorer;Code.+Design.+Grow.+Repeat+%E2%9C%A8" alt="Typing SVG" />
 </p>
