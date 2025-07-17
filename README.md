@@ -1,4 +1,3 @@
-<!-- GitHub Profile README for Sreyoshi -->
 
 <h1 align="center">Hi there, I'm Sreyoshi 👋</h1>
 
