@@ -1,13 +1,9 @@
 
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Sreyoshi244/Sreyoshi244/main/sreyoshi-banner.png" alt="Sreyoshi Banner" />
+  <img src="https://raw.githubusercontent.com/Sreyoshi244/Sreyoshi244/main/sreyoshi_banner_typewriter_sparkles.gif" alt="Animated Banner" />
 </p>
 
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=00FFFF&center=true&vCenter=true&width=600&lines=Hey+there%2C+I'm+Sreyoshi!;ECE+%7C+Web+Dev+%7C+UI%2FUX+Explorer;Code.+Design.+Grow.+Repeat+%E2%9C%A8" alt="Typing SVG" />
-
----
 
 ### 👩‍💻 About Me
 
