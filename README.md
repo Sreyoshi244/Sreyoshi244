@@ -1,9 +1,8 @@
-
-
 <p align="center">
   <img src="https://raw.githubusercontent.com/Sreyoshi244/Sreyoshi244/main/sreyoshi_banner_typewriter_sparkles.gif" alt="Animated Banner" />
 </p>
 
+---
 
 ### 👩‍💻 About Me
 
@@ -12,7 +11,7 @@
 - 🎨 UI/UX design hobbyist exploring creative, meaningful interfaces
 - 🌱 Constantly evolving, one project at a time...
 
-
+---
 
 ### 🧰 Tech Stack
 
@@ -30,22 +29,24 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Sreyoshi244&show_icons=true&theme=dracula" width="48%" />
+  <picture>
+    <source srcset="https://github-readme-stats.vercel.app/api?username=Sreyoshi244&show_icons=true&theme=dark" media="(prefers-color-scheme: dark)" />
+    <source srcset="https://github-readme-stats.vercel.app/api?username=Sreyoshi244&show_icons=true&theme=default" media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" />
+    <img src="https://github-readme-stats.vercel.app/api?username=Sreyoshi244&show_icons=true" width="48%" />
+  </picture>
+
   <img src="https://streak-stats.demolab.com/?user=Sreyoshi244&theme=dracula" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sreyoshi244&layout=compact&theme=dracula" width="48%" />
+
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sreyoshi244&layout=compact&theme=dracula&langs_count=8" width="48%" />
 </p>
 
 ---
 
-
 ### 📫 Let’s Connect!
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin)](www.linkedin.com/in/sreyoshi-pal)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin)](https://www.linkedin.com/in/sreyoshi-pal)
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github)](https://github.com/Sreyoshi244)
 [![Gmail](https://img.shields.io/badge/-Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:sreyoshipal85@gmail.com)
-
-
-
 
 ---
 
