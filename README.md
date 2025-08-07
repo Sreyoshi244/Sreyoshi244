@@ -29,15 +29,10 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <picture>
-    <source srcset="https://github-readme-stats.vercel.app/api?username=Sreyoshi244&show_icons=true&theme=dark" media="(prefers-color-scheme: dark)" />
-    <source srcset="https://github-readme-stats.vercel.app/api?username=Sreyoshi244&show_icons=true&theme=default" media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" />
-    <img src="https://github-readme-stats.vercel.app/api?username=Sreyoshi244&show_icons=true" width="48%" />
-  </picture>
+  <img src="https://github-readme-stats.vercel.app/api?username=Sreyoshi244&show_icons=true&theme=dark&cache_seconds=3600" width="48%" />
+  <!-- <img src="https://streak-stats.demolab.com?user=Sreyoshi244&theme=dracula" width="48%" /> -->
 
-  <img src="https://streak-stats.demolab.com/?user=Sreyoshi244&theme=dracula" width="48%" />
-
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sreyoshi244&layout=compact&theme=dracula&langs_count=8" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sreyoshi244&layout=compact&theme=dracula&langs_count=8&cache_seconds=3600" width="48%" />
 </p>
 
 ---
