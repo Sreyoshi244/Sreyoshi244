@@ -33,10 +33,13 @@
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Sreyoshi244&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=00FF00&text_color=FFFFFF&icon_color=00FF00" alt="GitHub Stats" />
   
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sreyoshi244&theme=radical&hide_border=true&background=0D1117&stroke=00FF00&ring=00FF00&fire=00FF00&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=FFFFFF&sideLabels=FFFFFF&dates=FFFFFF" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com/?user=Sreyoshi244&theme=radical" alt="GitHub Streak" />
   
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sreyoshi244&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=00FF00&text_color=FFFFFF" alt="Top Languages" />
 </div>
+
+<!-- Alternative streak stats if the above doesn't work -->
+<!-- <img src="https://github-readme-streak-stats.vercel.app/?user=Sreyoshi244&theme=radical" alt="GitHub Streak" /> -->
 
 ---
 
