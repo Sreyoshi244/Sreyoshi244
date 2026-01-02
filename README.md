@@ -1,49 +1,88 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Sreyoshi244/Sreyoshi244/main/sreyoshi_banner_typewriter_sparkles.gif" alt="Animated Banner" />
+  <img src="./woman-8439003_640.png" width="160" alt="Pixel avatar" />
+</p>
+
+<h1 align="center">Hi, I’m Sreyoshi 👋</h1>
+
+<p align="center">
+  Electronics & Communication Engineering student <br/>
+  UI/UX Enthusiast • Creative Technologist
 </p>
 
 ---
 
-### 👩‍💻 About Me
+## 👩‍💻 About Me
 
-- 🎓 Electronics and Communication Engineering student passionate about *tech with impact*
-- 💻 Currently learning and building with *HTML, CSS, Flask, and TailwindCSS*
-- 🎨 UI/UX design hobbyist exploring creative, meaningful interfaces
-- 🌱 Constantly evolving, one project at a time...
+I’m an **ECE student** who enjoys building things that sit at the intersection of  
+**engineering, design, and real-world usefulness**.
 
----
-
-### 🧰 Tech Stack
-
-![HTML](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/-CSS3-1572B6?logo=css3)
-![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-38B2AC?logo=tailwind-css&logoColor=white)
-![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)
-![Flask](https://img.shields.io/badge/-Flask-000000?logo=flask)
-![C](https://img.shields.io/badge/-C-00599C?logo=c)
-![SQLite](https://img.shields.io/badge/-SQLite-003B57?logo=sqlite)
-![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white)
+- 🎓 Background in **Electronics & Communication Engineering**
+- 💻 Comfortable with **C, C++, Python**, and frontend basics
+- 📷 Exploring **Computer Vision using OpenCV**
+- 🎨 Strong interest in **UI/UX and visual system design**
+- 🚀 Prefer **learning by building**, not copying generic projects
 
 ---
 
-### 📊 GitHub Stats
+## 🧠 What I’m Currently Focused On
+
+- Strengthening **DSA fundamentals** alongside core engineering subjects  
+- Building **small but meaningful projects** (vision, tools, utilities)  
+- Improving **design sense** for developer-facing interfaces  
+
+---
+
+## 🧰 Tech Stack
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Sreyoshi244&show_icons=true&theme=dark&cache_seconds=3600" width="48%" />
-  <img src="https://streak-stats.demolab.com?user=Sreyoshi244&theme=radical" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sreyoshi244&layout=compact&theme=dracula&langs_count=8&cache_seconds=3600" width="48%" />
+
+<img src="https://img.shields.io/badge/C-00599C?logo=c&logoColor=white" />
+<img src="https://img.shields.io/badge/C++-00599C?logo=cplusplus&logoColor=white" />
+<img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black" />
+
+<br/>
+
+<img src="https://img.shields.io/badge/OpenCV-5C3EE8?logo=opencv&logoColor=white" />
+<img src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white" />
+<img src="https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white" />
+<img src="https://img.shields.io/badge/TailwindCSS-38B2AC?logo=tailwind-css&logoColor=white" />
+<img src="https://img.shields.io/badge/Flask-000000?logo=flask&logoColor=white" />
+
+<br/>
+
+<img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white" />
+<img src="https://img.shields.io/badge/SQLite-003B57?logo=sqlite&logoColor=white" />
+
 </p>
 
 ---
 
-### 📫 Let’s Connect!
+## 🎯 What You’ll Find Here
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin)](https://www.linkedin.com/in/sreyoshi-pal)
-[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github)](https://github.com/Sreyoshi244)
-[![Gmail](https://img.shields.io/badge/-Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:sreyoshipal85@gmail.com)
+- 📁 **DSA practice** (clean, structured, topic-wise)
+- 🧪 **Experiments & learning projects**
+- 🎨 UI-focused ideas mixed with engineering logic
+- 📈 A visible learning journey — not just finished results
+
+---
+
+## 📫 Let’s Connect
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/sreyoshi-pal">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:sreyoshipal85@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://github.com/Sreyoshi244">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white" />
+  </a>
+</p>
 
 ---
 
 <p align="center">
-  💬 “Designing ideas. Building impact. Learning every line.”
+  ✨ <i>Designing ideas. Building impact. Learning every line.</i> ✨
 </p>
