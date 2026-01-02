@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./woman-8439003_640.png" width="160" alt="Pixel avatar" />
+  <img src="./no adventure here___.gif" width="160" alt="Pixel avatar" />
 </p>
 
 <h1 align="center">Hi, I’m Sreyoshi 👋</h1>
